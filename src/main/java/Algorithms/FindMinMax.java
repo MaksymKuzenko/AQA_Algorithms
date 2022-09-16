@@ -1,4 +1,4 @@
-package org.example;
+package Algorithms;
 
 import java.util.Arrays;
 

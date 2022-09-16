@@ -1,4 +1,4 @@
-package org.example;
+package Algorithms;
 
 import org.apache.commons.lang3.ArrayUtils;
 

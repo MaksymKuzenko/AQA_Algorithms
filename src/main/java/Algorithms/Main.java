@@ -1,9 +1,8 @@
-package org.example;
+package Algorithms;
 
 import org.apache.commons.lang3.ArrayUtils;
 
 import java.util.Arrays;
-import java.util.Iterator;
 
 public class Main {
     public static void main(String[] args) {
